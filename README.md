@@ -42,9 +42,7 @@ To download and run these notebooks:
 3. To get updates in the terminal cd into Python-for-astronomers and run:  
    `git pull`
 
-```{note}
-You may wish to fork the repository to your own account  and clone it if you plan to make changes to the documents. You can then submit a pull request to incorporate them into the upstream repo.
-```
+**Note:** You may wish to fork the repository to your own account  and clone it if you plan to make changes to the documents. You can then submit a pull request to incorporate them into the upstream repo.
 
 ## Installing Python / Jupyter on your computer
 
