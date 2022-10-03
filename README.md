@@ -24,11 +24,11 @@ alongside the code.  [Jupyter documentation](https://docs.jupyter.org/en/latest/
 
 ## Table of contents
 
-1. Requirements and setup
-2. Introduction Unix
-3. Basic Python
-4. Scientific Computing with Python
-5. Doing astronomy with Python (Astropy, Astroplan, Astroquerry, etc.)
+1. [Requirements and setup](./requirements.md)
+2. [Introduction Unix](./intro_to_unix.md)
+3. [Basic Python](./basic_python.ipynb)
+4. [Scientific Computing with Python](./scientific_python.ipynb)
+5. [Doing astronomy with Python (Astropy, Astroplan, etc.)](./astropy.ipynb)
 
 ---
 
